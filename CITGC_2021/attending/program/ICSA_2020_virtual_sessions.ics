@@ -1,0 +1,595 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ICSA 2020
+X-WR-TIMEZONE:America/Los_Angeles
+X-WR-CALDESC:http://icsa-conferences.org/2020/index.html
+BEGIN:VEVENT
+DTSTART:20201102T170000Z
+DTEND:20201102T210000Z
+DTSTAMP:20201104T220023Z
+UID:54k17v3jnusi1ho4pn37ahph84@google.com
+CREATED:20201014T003216Z
+DESCRIPTION:<table><tbody><tr><td><b>Tutorial 1: Enabling Industry 4.0&nbsp
+ \;with Eclipse BaSyx <br></b><br><ul><li><b>Breakout room</b>: Alpha</li></
+ ul><ul><li><b>Presenters: </b>Thomas Kuhn\, Frank Schnicke and Pablo Olivei
+ ra Antonino</li></ul><ul><li><b>Abstract: </b>The fourth industrial revolut
+ ion is mainly a software revolution. The end-to-end digitalization and the 
+ flexibility of manufacturing and supply chains require revisiting concepts 
+ like Service Oriented Architectures (SOA) and Digital Twins\, which are bei
+ ng considered the foundation of Industry 4.0\, as well as developing new so
+ ftware and system architecture concepts. In this tutorial\, we intend to di
+ scuss Industry 4.0 current trends and challenges that require active resear
+ ch by the software and systems architecture community\, as well as architec
+ ture drivers (i.e.\, business drivers\, quality &amp\; key functional requi
+ rements\, and technical\, organizational\, &amp\; legal constraints) and ar
+ chitecture decisions that we have compiled from (i) the literature and (ii)
+  consultancy and research projects in the field. Additionally\, we intend t
+ o discuss how these architecture drivers and decisions are addressed by Ecl
+ ipse BaSyx 1\, which is an open-source solution being actively developed in
+  the context of the BaSys 4.02 series of projects that aim at supporting ma
+ nufacturing companies and research institutions to architect Industry 4.0 s
+ olutions. Last\, we also plan to run practical small sessions\, where the t
+ utorial participants can reason on architecture decisions and specific Indu
+ stry 4.0 architecture scenarios\, experiencing\, then\, the first steps to 
+ realize Industry 4.0 solutions.</li></ul><br><b><br></b></td><td></td></tr>
+ </tbody></table>
+LAST-MODIFIED:20201026T011904Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tutorial 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201102T170000Z
+DTEND:20201102T210000Z
+DTSTAMP:20201104T220023Z
+UID:7lbdf4kt4lqfbqo3urqcatbnmo@google.com
+CREATED:20201014T003229Z
+DESCRIPTION:<b>Tutorial 2: Modeling Micro-services&nbsp\;with&nbsp\;DDD&nbs
+ p\;</b><br><table><tbody><tr><td><ul><li><b>Breakout room</b>:&nbsp\;Beta</
+ li><li><br></li></ul><ul><li><b>Presenters:&nbsp\;</b>Paulo Merson and Jose
+ ph Yoder</li></ul><ul><li><b>Abstract:</b>&nbsp\;Many have suggested using 
+ Domain-Driven Design (DDD) to help define the functional scope of microserv
+ ices. But how to apply this idea in practice is not clear to everyone. DDD 
+ is a domain modeling technique created in the early 2000s. Microservices is
+  an architecture style that became popular in 2015 as a means to break soft
+ ware solutions into a set of independently deployed services. In this full-
+ day tutorial\, we'll cover basic DDD concepts and discuss why and how DDD c
+ an help to create microservices with better availability\, scalability\, re
+ liability\, and modifiability. Using examples\, we'll navigate from a domai
+ n model created using DDD to the design of both synchronous (REST-based) an
+ d asynchronous (reactive) microservices. We’ll explore five different micro
+ service design scenarios around DDD aggregates\, bounded contexts (BC)\, do
+ main events\, and other strategies for inter-BC interaction.</li></ul></td>
+ </tr></tbody></table>
+LAST-MODIFIED:20201026T011915Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Tutorial 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201102T170000Z
+DTEND:20201102T210000Z
+DTSTAMP:20201104T220023Z
+UID:4k1tmhidqhu0srsppjmch2qf5s@google.com
+CREATED:20201014T003505Z
+DESCRIPTION:<br><p></p><ul><li><b>Breakout room:&nbsp\;</b><span>Gamma</spa
+ n></li></ul><ul><li><b>Workshop on Blockchain-based Architectures (BlockArc
+ h 2020) </b><span>is available at&nbsp\;<a href="http://ww2.inf.ufg.br/~ins
+ ight/blockarch2020/">http://ww2.inf.ufg.br/~insight/blockarch2020/</a></spa
+ n></li></ul><ul><li>Agenda:<ul><li>Technical Session 1 - Blockchain for E-H
+ ealth</li><li>Technical Session 2 - Architecting Blockchain-based Applicati
+ on</li><li>Technical Session 3 - Blockchain on Web Environment</li><li>Sess
+ ion 4 - Keynote Speech on BlockChain for Healthcare -&nbsp\;<i>Prof. Dr. Mo
+ hamad Kassab - Penn State University</i></li><li>Research Agenda Discussion
+ </li></ul></li></ul><p></p><p></p>
+LAST-MODIFIED:20201026T011925Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WS1: BlockArch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201102T170000Z
+DTEND:20201102T210000Z
+DTSTAMP:20201104T220023Z
+UID:2hpgif1urfeapusetc3asv0npk@google.com
+CREATED:20201014T003615Z
+DESCRIPTION:<ul><li><b>Breakout room:&nbsp\;</b>Delta</li></ul><ul><li>SESo
+ S/WDES 2020 is the joint of the 8th edition of the International Workshop o
+ n Software Engineering for Systems-of-Systems (SESoS) and the 14th edition 
+ of the Workshop on Distributed Software Development\, Software Ecosystems a
+ nd Systems-of-Systems (WDES)&nbsp\;-&nbsp\;&nbsp\;<a href="http://sesos-wde
+ s-2020.icmc.usp.br/Workshop.php">http://sesos-wdes-2020.icmc.usp.br/Worksho
+ p.php</a></li></ul><ul><li><b>Agenda</b>:<ul><li>Technical Session 1: Servi
+ ce-Based Architectures</li><li>Technical Session 2: Systems-of-Systems&nbsp
+ \;</li><li>Technical Session 3: Ecosystems&nbsp\;</li><li>Workshop Discussi
+ on: Towards a Research Agenda 2020-2030</li></ul></li></ul>
+LAST-MODIFIED:20201026T011934Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WS2:  SESoS/ WDES 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201103T170000Z
+DTEND:20201103T210000Z
+DTSTAMP:20201104T220023Z
+UID:537oo29hbp05pa00lndb5csvht@google.com
+CREATED:20201014T003844Z
+DESCRIPTION:<b>Tutorial 3: Challenges and Approaches for the Assessment of 
+ Micro-Service Architecture Deployment Alternatives in DevOps</b><br><ul><li
+ ><b>Breakout room:</b> Alpha</li></ul><ul><li><b>Presenter</b>: Alberto Avr
+ itzer</li></ul><ul><li><b>Abstract</b>: The goal of this tutorial is to pro
+ vide an overview of challenges and approaches for architecture/dependabilit
+ y assessment in the context of DevOps and microservices. Specifically\, we 
+ present approaches that employ operational data obtained from production-le
+ vel application performance management (APM) tools\, giving access to opera
+ tional workload profiles\, architectural information\, failure models\, and
+  security intrusions. We use this data to automatically create and configur
+ e architecture assessments based on models\, load tests\, and resilience be
+ nchmarks. The focus of this tutorial is on approaches that employ productio
+ n usage because these approaches provide more accurate recommendations for 
+ microservice architecture dependability assessment than approaches that do 
+ not consider production usage. We present an overview of (1) the state-of-t
+ he-art approaches for obtaining operational data from production systems us
+ ing APM tools\, (2) the challenges of dependability for DevOps and microser
+ vices\, (3) selected approaches based on operational data to assess dependa
+ bility. The architecture assessment focus of this tutorial is on scalabilit
+ y\, resilience\, survivability\, and security. Particularly\, we present a 
+ demo of the automated approach for the evaluation of domain-based scalabili
+ ty and security metric assessment that is based on the microservice archite
+ cture ability to satisfy the performance requirement under load and/or intr
+ usions. We illustrate the approach by presenting experimental results using
+  a benchmark microservice architecture.</li></ul>
+LAST-MODIFIED:20201026T011946Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tutorial 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201103T170000Z
+DTEND:20201103T210000Z
+DTSTAMP:20201104T220023Z
+UID:6mkmca5ja0247rbm9vqe3l5vt4@google.com
+CREATED:20201014T003908Z
+DESCRIPTION:<a href="http://seh.icmc.usp.br/html/seh-2020.html#program">htt
+ p://seh.icmc.usp.br/html/seh-2020.html</a><br><br><br><ul><li><b>Breakout r
+ oom: </b>Beta</li></ul><ul><li><b>Agenda</b>:&nbsp\;<ul><li>Session 1 – Com
+ pliance and conformity assessment\, Data Quality</li><li>Session 2 – Securi
+ ty and Data Mining: Technology applied for healthcare</li><li>Session 3 - A
+ pps and Systems for Healthcare</li><li>Session 4 - Keynote</li><li>Research
+  Agenda Discussion</li><li>Closing Session</li></ul></li></ul><ul><br></ul>
+LAST-MODIFIED:20201026T011953Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WS3: SEH 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201104T170000Z
+DTEND:20201104T172000Z
+DTSTAMP:20201104T220023Z
+UID:0i5h6f1e8pfju6s9ltrb1l5oa0@google.com
+CREATED:20201014T004025Z
+DESCRIPTION:<ul><li><b>Breakout room:</b>&nbsp\;Plenary</li></ul><ul><li><b
+ >Chair</b>: Eduardo Almeida</li></ul>
+LAST-MODIFIED:20201026T012002Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Opening Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201104T172000Z
+DTEND:20201104T182000Z
+DTSTAMP:20201104T220023Z
+UID:7k7a1q00scgodk91aa2h9vk11q@google.com
+CREATED:20201014T004109Z
+DESCRIPTION:<ul><li><b>Breakout room:</b>&nbsp\;Plenary</li></ul><ul><li><b
+ >Title: </b>What Makes Expert Software Designers Successful?<br></li><li><p
+ ><b>Keynote</b>:&nbsp\;<a href="http://icsa-conferences.org/2020/attending/
+ keynotes/index.html#andre">André van der Hoek\, University of California</a
+ >&nbsp\;</p></li></ul><ul><li><b>Chair</b>: Sam Malek</li></ul>
+LAST-MODIFIED:20201026T012011Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Keynote: André van der Hoek
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201104T183000Z
+DTEND:20201104T193000Z
+DTSTAMP:20201104T220023Z
+UID:0j1kb36pl04h83qhn9e6crhoa6@google.com
+CREATED:20201014T004222Z
+DESCRIPTION:<ul><li><b>Breakout room:</b> Alpha</li></ul><ul><li><b>Session
+ : 1-a&nbsp\;</b></li></ul><ul><li><b>&nbsp\;Chair:&nbsp\;</b>Thais Batista<
+ b>&nbsp\;&nbsp\;</b><br></li></ul><ul><li><b>Papers</b>:<ul><li>How 'micro'
+  are your services?&nbsp\;<i>Thatiane Rosa\, Alfredo Goldman and Eduardo Gu
+ erra</i>&nbsp\;(<a href="http://icsa-conferences.org/2020/call-for-papers/n
+ ew-and-emerging-ideas/index.html">NEMI Track</a>)</li><li>Data-driven Adapt
+ ation in Microservice-based IoT Architecture.&nbsp\;<i>Martina De Sanctis\,
+  Henry Muccini and Karthik Vaidhyanathan</i>&nbsp\;(<a href="http://icsa-co
+ nferences.org/2020/call-for-papers/new-and-emerging-ideas/index.html">NEMI 
+ Track</a>)</li><li>Towards Formalizing Microservices Architectural Patterns
+  with Event-B.&nbsp\;<i>Sebastian Vergara\, Laura González and Raúl Ruggia<
+ /i>&nbsp\;(<a href="http://icsa-conferences.org/2020/call-for-papers/new-an
+ d-emerging-ideas/index.html">NEMI Track</a>)</li></ul></li></ul>
+LAST-MODIFIED:20201026T012023Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Session 1-a
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201104T183000Z
+DTEND:20201104T193000Z
+DTSTAMP:20201104T220023Z
+UID:6l30rvjg1r98jsrot4k9n8lqqr@google.com
+CREATED:20201014T004234Z
+DESCRIPTION:<ul><li><b>Breakout room:</b>&nbsp\;Beta</li></ul><ul><li><b>Se
+ ssion: 1-b </b>(Tool Session)</li></ul><ul><li><b>&nbsp\;</b><b>Chair: </b>
+ Danny Weyns</li></ul><ul><li><b>Papers</b>:<ul><li></li><li>PerfMinerArch: 
+ A Tool to Visualize and Analyze Performance Deviations.&nbsp\;<i>Leo Moreir
+ a Silva\, Luís Eduardo Anunciado Silva\, Uirá Kulesza\, Djalma Antony Lemos
+  Rodrigues and Felipe Alves Pereira Pinto</i>&nbsp\;(<a href="http://icsa-c
+ onferences.org/2020/call-for-papers/tool-demonstrations-papers/index.html">
+ Tools Track</a>)<br></li><li>A Toolbox for Realtime Timeseries Anomaly Dete
+ ction.&nbsp\;<i>Markus Böbel\, Ilias Gerostathopoulos and Tomas Bures</i>&n
+ bsp\;(<a href="http://icsa-conferences.org/2020/call-for-papers/tool-demons
+ trations-papers/index.html">Tools Track</a>)<br></li><li>An Automated Appro
+ ach to Recover the Use-case View of an Architecture.&nbsp\;<i>Joanna Cecili
+ a da Silva Santos\, Sara Moshtari and Mehdi Mirakhorli</i>&nbsp\;(<a href="
+ http://icsa-conferences.org/2020/call-for-papers/new-and-emerging-ideas/ind
+ ex.html">NEMI Track</a>)<br></li></ul></li></ul>
+LAST-MODIFIED:20201026T012034Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Session 1-b
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201104T183000Z
+DTEND:20201104T193000Z
+DTSTAMP:20201104T220023Z
+UID:1l0n0uuiip1tckf91kat3r954o@google.com
+CREATED:20201014T015715Z
+DESCRIPTION:<ul><li><b>Breakout room:</b>&nbsp\;Gamma</li></ul><ul><li><b>S
+ ession: 1-b&nbsp\;</b>(Tool Session)</li></ul><ul><li><b>&nbsp\;</b><b>Chai
+ r:&nbsp\;</b>Alessandro Garcia</li></ul><ul><li><b>Papers:</b><ul><li>Semi-
+ automatic Architectural Suggestions for the Functional Safety of Cooperativ
+ e Driving Systems.&nbsp\;<i>Sangeeth Kochanthara\, Niels Rood\, Loek Cleoph
+ as\, Yanja Dajsuren and Mark van den Brand</i>&nbsp\;(<a href="http://icsa-
+ conferences.org/2020/call-for-papers/new-and-emerging-ideas/index.html">NEM
+ I Track</a>)</li><li>Understanding Software Systems through Interactive Pat
+ tern Detection.&nbsp\;<i>Everton Guimaraes and Yuanfang Cai</i>&nbsp\;(<a h
+ ref="http://icsa-conferences.org/2020/call-for-papers/new-and-emerging-idea
+ s/index.html">NEMI Track</a>)</li><li>The Impact of Constructors on the Val
+ idity of Class Cohesion Metrics.&nbsp\;<i>Yegor Bugayenko</i>&nbsp\;(<a hre
+ f="http://icsa-conferences.org/2020/call-for-papers/new-and-emerging-ideas/
+ index.html">NEMI Track</a>)</li></ul></li></ul>
+LAST-MODIFIED:20201026T012042Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Session 1-c
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201104T194000Z
+DTEND:20201104T204000Z
+DTSTAMP:20201104T220023Z
+UID:1qn477r79quk3lam3ehrk78ef1@google.com
+CREATED:20201014T004243Z
+DESCRIPTION:<ul><li><b>Breakout room:</b>&nbsp\;Alpha</li></ul><ul><li><b>S
+ ession: 2-a&nbsp\;</b></li></ul><ul><li><b>&nbsp\;</b><b>Chair:&nbsp\;</b>P
+ aulo Merson</li></ul><ul><li><b>Papers:</b><ul><li>Model-Based Analysis of 
+ Microservice Resiliency Patterns.&nbsp\;<i>Nabor Mendonca\, Carlos Mendes A
+ deraldo\, Javier Cámara and David Garlan</i>&nbsp\;(<a href="http://icsa-co
+ nferences.org/2020/call-for-papers/technical-papers/index.html">Technical T
+ rack</a>)</li><li>REST vs GraphQL: A Controlled Experiment.&nbsp\;<i>Gleiso
+ n Brito and Marco Tulio Valente&nbsp\;</i>(<a href="http://icsa-conferences
+ .org/2020/call-for-papers/technical-papers/index.html">Technical Track</a>)
+ </li><li>Enforcing Architectural Security Decisions.&nbsp\;<i>Stefanie Jass
+ er</i>&nbsp\;(<a href="http://icsa-conferences.org/2020/call-for-papers/tec
+ hnical-papers/index.html">Technical Track</a>)</li></ul></li></ul>
+LAST-MODIFIED:20201026T012053Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Session 2-a
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201104T194000Z
+DTEND:20201104T204000Z
+DTSTAMP:20201104T220023Z
+UID:1vaqqbi0naflvv9qvo68uh0gv0@google.com
+CREATED:20201014T004347Z
+DESCRIPTION:<ul><li><b>Breakout room:</b>&nbsp\;Beta</li></ul><ul><li><b>Se
+ ssion: 2-b</b></li></ul><ul><li><b>&nbsp\;</b><b>Chair:&nbsp\;</b>Susanne B
+ raun</li></ul><ul><li><b>Papers:</b><ul><li>Automated Security Analysis for
+  Microservice Architecture.&nbsp\;<i>Nacha Chondamrongkul\, Jing Sun and Ia
+ n Warren</i>&nbsp\;(<a href="http://icsa-conferences.org/2020/call-for-pape
+ rs/new-and-emerging-ideas/index.html">NEMI Track</a>)<ul></ul></li><li>Towa
+ rds Identifying Microservice Candidates from Business Rules Implemented in 
+ Stored Procedures.&nbsp\;<i>Marx Haron Gomes Barbosa and Paulo Henrique M. 
+ Maia</i>&nbsp\;(<a href="http://icsa-conferences.org/2020/call-for-papers/s
+ oftware-architecture-in-practice-papers/index.html">SAIP Track</a>)<br><ul>
+ </ul></li><li>A Lightweight Architecture Analysis of a Monolithic Messaging
+  Gateway.&nbsp\;<i>Daniel Brahneborg and Wasif Afzal</i>&nbsp\;(<a href="ht
+ tp://icsa-conferences.org/2020/call-for-papers/software-architecture-in-pra
+ ctice-papers/index.html">SAIP Track</a>)<br></li></ul></li></ul>
+LAST-MODIFIED:20201026T012102Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Session 2-b
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201104T204000Z
+DTEND:20201104T210000Z
+DTSTAMP:20201104T220023Z
+UID:1knkbh9np7ddkt4kjo9bqat1ru@google.com
+CREATED:20201014T004435Z
+DESCRIPTION:<p><b><b>ICSA2020's Most Influential Paper Award</b></b></p><ul
+ ><li><b>&nbsp\;Breakout room: </b>Plenary</li></ul><ul><li><b>Chair: </b>Iv
+ ica Crnkovic<br></li></ul><p></p><b></b><p><br></p>
+LAST-MODIFIED:20201026T012114Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Paper Award 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201105T170000Z
+DTEND:20201105T180000Z
+DTSTAMP:20201104T220023Z
+UID:4efn1cr8ko0tqtvl6ru8sv4ihs@google.com
+CREATED:20201014T004523Z
+DESCRIPTION:<ul><li><b>Breakout room:</b>&nbsp\;Plenary</li></ul><ul><li><b
+ >Title:&nbsp\;</b><b>SE for AI: ethics is a choice and not choosing is unet
+ hical&nbsp\;</b>(or\, If Deep Learning is the answer\, what was the questio
+ n?)<br></li><li><p><b>Keynote</b>:&nbsp\;<a href="http://icsa-conferences.o
+ rg/2020/attending/keynotes/index.html#tim">Tim Menzies\, NC State Universit
+ y</a>&nbsp\;<br></p></li><li><p><b>Chair: </b>Alessandro Garcia</p></li></u
+ l>
+LAST-MODIFIED:20201026T012127Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Keynote: Tim Menzies
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201105T181000Z
+DTEND:20201105T193000Z
+DTSTAMP:20201104T220023Z
+UID:30751ns1gu8n0iuur9g3j7jm4c@google.com
+CREATED:20201014T004614Z
+DESCRIPTION:<ul><li><b>Breakout room:</b>&nbsp\;Alpha</li></ul><ul><li><b>S
+ ession: 3-a</b></li></ul><ul><li><b>&nbsp\;</b><b>Chair:&nbsp\;</b>&nbsp\;H
+ enry Muccini</li></ul><ul><li><b>Papers:</b><ul><li>A Complexity Metric for
+  Microservices Architecture Migration.&nbsp\;<i>Nuno Santos and António Rit
+ o Silva</i>&nbsp\;(<a href="http://icsa-conferences.org/2020/call-for-paper
+ s/technical-papers/index.html">Technical Track</a>)</li><li>Microservice De
+ composition via Static and Dynamic Analysis of the Monolith.&nbsp\;<i>Alexa
+ nder Krause\, Christian Zirkelbach\, Wilhelm Hasselbring\, Stephan Lenga an
+ d Dan Kröger</i>&nbsp\;(<a href="http://icsa-conferences.org/2020/call-for-
+ papers/software-architecture-in-practice-papers/index.html">SAIP Track</a>)
+ </li><li>From Monolithic architecture Style to Microservice one based on Se
+ mi-automatic Approach.&nbsp\;<i>Selmadji Anfel\, Abdelhak-Djamel Seriai\, B
+ ouziane Hinde and Rahina Oumarou Mahamane</i>&nbsp\;(<a href="http://icsa-c
+ onferences.org/2020/call-for-papers/technical-papers/index.html">Technical 
+ Track</a>)</li><li>Anatomy\, concept\, and design space of blockchain netwo
+ rks.&nbsp\;<i>Nguyen Khoi Tran and Muhammad Ali Babar</i>&nbsp\;(<a href="h
+ ttp://icsa-conferences.org/2020/call-for-papers/technical-papers/index.html
+ ">Technical Track</a>)</li></ul></li></ul>
+LAST-MODIFIED:20201026T012205Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Session 3-a
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201105T181000Z
+DTEND:20201105T193000Z
+DTSTAMP:20201104T220023Z
+UID:6mefup7lstcean99g5r0uqri4j@google.com
+CREATED:20201014T004623Z
+DESCRIPTION:<ul><li><b>Breakout room:</b>&nbsp\;Beta</li></ul><ul><li><b>Se
+ ssion: 3-b</b></li></ul><ul><li><b>&nbsp\;</b><b>Chair:&nbsp\;</b>Anne Kozi
+ olek</li></ul><ul><li><b>Papers:</b><ul><li>The evolution of architectural 
+ decision making as a key focus area of software architecture research: A se
+ mi-systematic literature study.&nbsp\;<i>Manoj Bhat\, Klym Shumaiev\, Uwe H
+ ohenstein\, Andreas Biesdorf and Florian Matthes</i>&nbsp\;(<a href="http:/
+ /icsa-conferences.org/2020/call-for-papers/technical-papers/index.html">Tec
+ hnical Track</a>)</li><li>COCOS: a Scalable Architecture for Containerized 
+ Heterogeneous Systems.&nbsp\;<i>Luciano Baresi and Giovanni Quattrocchi&nbs
+ p\;</i>(<a href="http://icsa-conferences.org/2020/call-for-papers/technical
+ -papers/index.html">Technical Track</a>)</li><li>Butterfly Space: An Archit
+ ectural Approach for Investigating Performance Issues.&nbsp\;<i>Yutong Zhao
+ \, Lu Xiao\, Xiao Wang\, Zhifei Chen\, Bihuan Chen and Yang Liu</i>&nbsp\;(
+ <a href="http://icsa-conferences.org/2020/call-for-papers/technical-papers/
+ index.html">Technical Track</a>)</li><li>Employment of optimal approximatio
+ ns on Apache Hadoop checkpoint technique for performance improvements.&nbsp
+ \;<i>Paulo Vinicius Cardoso\, Rhauani Weber Aita Fazul and Patrícia Pitthan
+  Barcelos</i>&nbsp\;(<a href="http://icsa-conferences.org/2020/call-for-pap
+ ers/technical-papers/index.html">Technical Track</a>)</li></ul></li></ul>
+LAST-MODIFIED:20201026T012214Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Session 3-b
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201105T194000Z
+DTEND:20201105T210000Z
+DTSTAMP:20201104T220023Z
+UID:5hc4r6hje2o14l59m5i3n9vamt@google.com
+CREATED:20201014T004708Z
+DESCRIPTION:<ul><li><b>Breakout room:</b>&nbsp\;Alpha</li></ul><ul><li><b>S
+ ession: 4-a&nbsp\;</b></li></ul><ul><li><b>&nbsp\;</b><b>Chair:&nbsp\;</b>&
+ nbsp\;Ivica Crnkovic</li></ul><ul><li><b>Papers:</b><ul><li>Incremental Cal
+ ibration of Architectural Performance Models with Parametric Dependencies.&
+ nbsp\;<i>Manar Mazkatli\, David Monschein\, Johannes Grohmann and Anne Kozi
+ olek</i>&nbsp\;(<a href="http://icsa-conferences.org/2020/call-for-papers/t
+ echnical-papers/index.html">Technical Track</a>)</li><li>A Goal-driven Appr
+ oach for Deploying Self-adaptive IoT Systems.&nbsp\;<i>Fahed Alkhabbas\, Il
+ ir Murturi\, Romina Spalazzese\, Paul Davidsson and Schahram Dustdar&nbsp\;
+ </i>(<a href="http://icsa-conferences.org/2020/call-for-papers/technical-pa
+ pers/index.html">Technical Track</a>)</li><li>Quantitative Verification-Aid
+ ed Machine Learning: A Tandem Approach for Architecting Self-Adaptive IoT S
+ ystems.&nbsp\;<i>Javier Cámara Moreno\, Henry Muccini and Karthik Vaidhyana
+ than</i>&nbsp\;(<a href="http://icsa-conferences.org/2020/call-for-papers/t
+ echnical-papers/index.html">Technical Track</a>)</li><li>On the Deployment 
+ of IoT Systems: An Industrial Survey.&nbsp\;<i>Fahed Alkhabbas\, Romina Spa
+ lazzese\, Maura Cerioli\, Maurizio Leotta and Gianna Reggio</i>&nbsp\;(<a h
+ ref="http://icsa-conferences.org/2020/call-for-papers/software-architecture
+ -in-practice-papers/index.html">SAIP Track</a>)</li></ul></li></ul>
+LAST-MODIFIED:20201026T012225Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Session 4-a
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201105T194000Z
+DTEND:20201105T210000Z
+DTSTAMP:20201104T220023Z
+UID:3fgmhpjvdh9l2o5jso8ldro20f@google.com
+CREATED:20201014T004716Z
+DESCRIPTION:<ul><li><b>Breakout room:</b>&nbsp\;Beta</li></ul><ul><li><b>Se
+ ssion: 4-b</b></li></ul><ul><li><b>&nbsp\;</b><b>Chair:&nbsp\;</b>Neil Erns
+ t</li></ul><ul><li><b>Papers:</b><ul><li>A Classification of Replicated Dat
+ a for the Design of Eventually Consistent Domain Models.&nbsp\;<i>Susanne B
+ raun</i>&nbsp\;(<a href="http://icsa-conferences.org/2020/call-for-papers/s
+ oftware-architecture-in-practice-papers/index.html">SAIP Track</a>)</li><li
+ >Multi-tenant Quality Attributes to Manage Tenants in SaaS Applications.&nb
+ sp\;<i>Sumit Kalra and T.V. Prabhakar</i>&nbsp\;(<a href="http://icsa-confe
+ rences.org/2020/call-for-papers/early-career-forum/index.html">ECRF</a>)</l
+ i><li>A Model-Driven Architectural Design Method for Big Data Analytics.&nb
+ sp\;<i>Cristian Camilo Castellanos Rodriguez\, Boris Rainiero Perez Gutierr
+ ez\, Carlos A. Varela and Dario Correal</i>&nbsp\;(<a href="http://icsa-con
+ ferences.org/2020/call-for-papers/early-career-forum/index.html">ECRF</a>)<
+ /li><li>Serverless: What it Is\, What to Do and What Not to Do.&nbsp\;<i>Ju
+ ssi Nupponen and Davide Taibi</i>&nbsp\;(<a href="http://icsa-conferences.o
+ rg/2020/call-for-papers/software-architecture-in-practice-papers/index.html
+ ">SAIP Track</a>)</li></ul></li></ul>
+LAST-MODIFIED:20201026T012233Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Session 4-b
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201106T170000Z
+DTEND:20201106T180000Z
+DTSTAMP:20201104T220023Z
+UID:6ddf9rj3mq7fsm7kf7jegmsr9c@google.com
+CREATED:20201014T004747Z
+DESCRIPTION:<ul><li><b>Breakout room:</b>&nbsp\;Plenary</li></ul><ul><li><b
+ >Title: </b>Building a bank outside-in: The challenges evolving Nubank to m
+ illions of customers and multiple products</li></ul><ul><li><b>Keynote Spea
+ kers</b>:&nbsp\;<a href="http://icsa-conferences.org/2020/attending/keynote
+ s/index.html#nubank">Alexandre&nbsp\;Freire and Henrique Alves\, NuBank</a>
+ &nbsp\;</li></ul><ul><li><b>Chair</b>: Paulo Merson<br></li></ul>
+LAST-MODIFIED:20201026T012241Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Keynotes: Alexandre Freire and Henrique Alves 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201106T194000Z
+DTEND:20201106T204000Z
+DTSTAMP:20201104T220023Z
+UID:656fenq1jdk36tkoqjm32ib254@google.com
+CREATED:20201014T004852Z
+DESCRIPTION:<ul><li><b>Breakout room:</b>&nbsp\;Alpha</li></ul><ul><li><b>S
+ ession: 6</b></li></ul><ul><li><b>&nbsp\;</b><b>Chair:&nbsp\;</b>Elisa Yumi
+  Nakagawa</li></ul><ul><li><b>Papers:&nbsp\;</b><ul><li>DesignDiff: Continu
+ ously Modeling Software Design Difference from Code Revisions.&nbsp\;<i>Xia
+ o Wang\, Lu Xiao\, Kaifeng Huang\, Bihuan Chen\, Yutong Zhao and Yang Liu</
+ i>&nbsp\;(<a href="http://icsa-conferences.org/2020/call-for-papers/technic
+ al-papers/index.html">Technical Track</a>)</li><li>Unlimited Rulebook: a Re
+ ference Architecture for Economy Mechanics in Digital Games.&nbsp\;<i>Wilso
+ n Mizutani and Fabio Kon</i>&nbsp\;(<a href="http://icsa-conferences.org/20
+ 20/call-for-papers/technical-papers/index.html">Technical Track</a>)</li><l
+ i>Are Architectural Smells Independent from Code Smells? An Empirical Study
+ .&nbsp\;<i>Francesca Arcelli Fontana\, Valentina Lenarduzzi\, Riccardo Rove
+ da\, Davide Taibi (<a href="http://icsa-conferences.org/2020/call-for-paper
+ s/journal-first/index.html">Journal First Track</a>)</i></li></ul></li></ul
+ >
+LAST-MODIFIED:20201026T012257Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Session 6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201106T204000Z
+DTEND:20201106T210000Z
+DTSTAMP:20201104T220023Z
+UID:2lh1ol0466vaohgc2mfmdg3ruf@google.com
+CREATED:20201014T005012Z
+DESCRIPTION:<ul><li><b>Breakout room:</b>&nbsp\;Plenary</li></ul><ul><li><b
+ >Chairs</b>: Eduardo Almeida and&nbsp\;Steffen Becker</li></ul>
+LAST-MODIFIED:20201026T012311Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Closing
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201106T181000Z
+DTEND:20201106T193000Z
+DTSTAMP:20201104T220023Z
+UID:3106lfu1kvka5sagc89uknvo7n@google.com
+CREATED:20201014T004817Z
+DESCRIPTION:<ul><li><b>Breakout room:</b>&nbsp\;Alpha</li><li><b>Session: 5
+ </b></li></ul><ul><li><b>&nbsp\;</b><b>Chair:&nbsp\;</b><b>Bara Buhnova</b>
+ </li></ul><ul><li><b>Papers:&nbsp\;</b><ul><li>Technical Architectures for 
+ Automotive Systems.&nbsp\;<i>Alessio Bucaioni and Patrizio Pelliccione&nbsp
+ \;</i>(Technical Track)</li><li>Automated Microservice Identification in Le
+ gacy Systems with Functional and Non-Functional Metrics.&nbsp\;<i>Yukun Zha
+ ng\, Bo Liu\, Dai Liyun\, Kang Chen and Xuelian Cao</i>&nbsp\;(Technical Tr
+ ack)</li><li>Strategies for Pattern-Based Detection of Architecturally-Rele
+ vant Software Vulnerabilities (Don't Try This at Home - It Doesn't Work).&n
+ bsp\;<i>Adriana Sejfia and Nenad Medvidovic</i>&nbsp\;(Technical Track)</li
+ ><li>Architectural Patterns for Cross-Domain Personalised Automotive Functi
+ ons.&nbsp\;<i>Stefan Kugele\, Christoph Segler and Thomas Hubregtsen</i>&nb
+ sp\;(Technical Track)</li></ul></li></ul>
+LAST-MODIFIED:20201104T215811Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Session 5
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
